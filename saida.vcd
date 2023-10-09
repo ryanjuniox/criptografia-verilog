@@ -1,0 +1,128 @@
+$date
+	Sun Oct 08 16:17:47 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module teste $end
+$var wire 4 ! saida_wire [3:0] $end
+$upscope $end
+$scope module teste $end
+$var reg 4 " entrada [3:0] $end
+$upscope $end
+$scope module teste $end
+$var reg 1 # reset $end
+$upscope $end
+$scope module teste $end
+$var reg 1 $ ready $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1$
+0#
+b0 "
+b111 !
+$end
+#10
+0$
+#20
+b1100 !
+1$
+b1 "
+#30
+0$
+#40
+b101 !
+1$
+b10 "
+#50
+0$
+#60
+b10 !
+1$
+b11 "
+#70
+0$
+#80
+b1011 !
+1$
+b100 "
+#90
+0$
+#100
+b1 !
+1$
+b101 "
+#110
+0$
+#120
+b1001 !
+1$
+b110 "
+#130
+0$
+#140
+b1111 !
+1$
+b111 "
+#150
+0$
+#160
+b1101 !
+1$
+b1000 "
+#170
+0$
+#180
+b1000 !
+1$
+b1001 "
+#190
+0$
+#200
+b0 !
+1$
+b1010 "
+#210
+0$
+#220
+b1110 !
+1$
+b1011 "
+#230
+0$
+#240
+b11 !
+1$
+b1100 "
+#250
+0$
+#260
+b1010 !
+1$
+b1101 "
+#270
+0$
+#280
+b110 !
+1$
+b1110 "
+#290
+0$
+#300
+b100 !
+1$
+b1111 "
+#310
+0$
+#320
+b0 !
+1#
+#330
